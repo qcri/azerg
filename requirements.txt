@@ -1,0 +1,5 @@
+huggingface_hub
+ioc-finder
+iocparser
+openai
+tqdm
