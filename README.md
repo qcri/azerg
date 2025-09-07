@@ -73,7 +73,7 @@ python evaluate_results.py --task <TASK> --dataset <DATASET>
 **Example**:
 
 ```
-python evaluate.py T1 azerg
+python evaluate_results.py --task T1 --dataset azerg
 ```
 
 ## Citation
