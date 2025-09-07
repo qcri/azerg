@@ -89,6 +89,6 @@ If you use AZERG in your research, please cite our paper:
 }
 ```
 
-## Issues
+## Issues
 
 Please report any bugs or feature requests by opening an issue on our GitHub repository: [https://github.com/QCRI/azerg/issues](https://github.com/QCRI/azerg/issues).
