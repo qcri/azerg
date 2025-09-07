@@ -76,7 +76,7 @@ python evaluate_results.py --task <TASK> --dataset <DATASET>
 python evaluate_results.py --task T1 --dataset azerg
 ```
 
-## Citation
+## Citation (to appear in RAID 2025)
 
 If you use AZERG in your research, please cite our paper:
 
